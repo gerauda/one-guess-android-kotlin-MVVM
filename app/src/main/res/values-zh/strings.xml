@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- A -->
+    <string name="action_settings">设置</string>
+    <string name="app_name">FragmentViewModel</string>
+
+    <!-- G -->
+    <string name="guess_who">猜猜是谁？</string>
+
+    <!-- L -->
+    <string name="launch_quiz">开始检查</string>
+
+    <!-- M -->
+    <string name="main_fragment">MainFragment</string>
+
+    <!-- S -->
+    <string name="see_more">更多</string>
+
+    <!-- T -->
+    <string name="title_activity_detail">DetailActivity</string>
+
+</resources>
